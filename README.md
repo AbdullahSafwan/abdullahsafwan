@@ -14,7 +14,8 @@ I'm a passionate Backend Software Engineer currently working at Diya Interactive
 
 Currently working on a B2C application with Serverless Framework, Prisma, and MySQL. Before that, I built audio/video streaming systems using AWS Media Services. I also help mentor junior engineers when I'm not debugging my own code.
 
-Graduated with a B.E in Computer Systems Engineering from DUET Karachi
+Graduated with a B.E in Computer Systems Engineering from DUET Karachi.
+
 You can reach me at **abdullahsafwan768@gmail.com**
 
 ## Tech Stack
