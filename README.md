@@ -1,15 +1,16 @@
-# Hi there, I'm Abdullah Safwan
-
-<div align="center">
-
-**Software Engineer, Backend** | Node.js | TypeScript | AWS
-
+<div align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Greetings+Traveler!;Stay+awhile+and+explore." alt="Typing SVG" /></a>
 
 </div>
 
 ## About Me
 
-I'm a passionate Backend Software Engineer currently working at **Diya Interactive**, where I specialize in building scalable serverless applications using Node.js, TypeScript, and AWS. I love architecting robust backend systems and diving deep into media streaming technologies.
+<div align="center">
+
+**Software Engineer, Backend** | Node.js | TypeScript | AWS
+
+</div>
+I'm a passionate Backend Software Engineer currently working at Diya Interactive, where I specialize in building scalable serverless applications using Node.js, TypeScript, and AWS. I love architecting robust backend systems and diving deep into media streaming technologies.
 
 Currently working on a B2C application with Serverless Framework, Prisma, and MySQL. Before that, I built audio/video streaming systems using AWS Media Services. I also help mentor junior engineers when I'm not debugging my own code.
 
@@ -45,19 +46,25 @@ You can reach me at **abdullahsafwan768@gmail.com**
 ## Work Experience
 
 ### Software Engineer @ Diya Interactive
+
 _Sep 2024 - Present_
+
 - Developing B2C applications with Serverless Framework & Node.js
 - Collaborating with stakeholders to align business requirements with technical solutions
 - Mentoring junior backend engineers
 
 ### Associate Software Engineer @ Diya Interactive
+
 _Jan 2023 - Aug 2024_
+
 - Built the backend for an audio streaming app using Node.js, TypeScript, Prisma, and AWS Media Services. Architected the flow of Audio streams using AWS Media Services, working with RTMP and HLS Streams.
 - Worked on Python Django projects with AWS
 - Did client meetings and demos (yes, the kind where you hope nothing breaks during the presentation)
 
 ### Backend Intern @ Diya Interactive
+
 _Nov 2022 - Jan 2023_
+
 - Built CRUD APIs with Django Rest Framework
 - Set up live video streaming using RTMP and HLS
 - Learned backend development by watching senior devs and asking too many questions
@@ -67,14 +74,17 @@ _Nov 2022 - Jan 2023_
 ### **At Work**
 
 ### Health Services Platform
+
 - Serverless app that connects travelers to health services
 - Built with Node.js, TypeScript, Prisma, and MySQL
 
 ### Audio Streaming Backend
+
 - Real-time audio streaming using AWS Media Services
 - Lots of transcoding, lots of debugging
 
 ### Media Streaming Architecture
+
 - Designed a scalable streaming system on AWS
 - Handles live processing and archiving
 
@@ -83,14 +93,17 @@ _Nov 2022 - Jan 2023_
 ### **Side Projects**
 
 ### ERP & CRM for GPU Repair Shop
+
 - Built an MVC app in Node.js to manage a GPU repair business
 - Handles bookings, queue management, and resource allocation
 
 ### PiHole DNS Server
+
 - Set up a DNS sinkhole on a Raspberry Pi
 - Blocks around 30% of network traffic, mostly ads and trackers
 
 ### Student Grade Predictor
+
 - ML project that predicts student grades
 - Uses linear regression, SVM, and neural networks on real data
 
@@ -115,6 +128,6 @@ _Nov 2022 - Jan 2023_
 
 <div align="center">
 
-*Still figuring things out, one commit at a time.*
+_Still figuring things out, one commit at a time._
 
 </div>
