@@ -124,11 +124,3 @@ _Nov 2022 - Jan 2023_
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahsafwan768@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-
-_Still figuring things out, one commit at a time._
-
-</div>
